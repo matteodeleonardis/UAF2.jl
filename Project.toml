@@ -1,0 +1,13 @@
+name = "UAF2"
+uuid = "244b466f-2ff5-4e2b-8ee1-d5607d91561a"
+authors = ["Matteo De Leonardis"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
