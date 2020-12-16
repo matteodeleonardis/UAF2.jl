@@ -36,4 +36,4 @@ function add_pseudocounts(data, pc)
 end
 
 
-export not_desappearing, filter_counts, add_pseudocounts
+export not_disappearing, filter_counts, add_pseudocounts
